@@ -165,3 +165,8 @@ body {
 	position: absolute;
 	margin-top: -58px;
 }
+
+.beak {
+	height: 10%;
+	background-color: orange;
+}
