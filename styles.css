@@ -180,6 +180,8 @@ body {
 	transform: rotate(-45deg);
 }
 
+@keyframes wave{}
+
 .ground {
 	width: 100vw;
 	height: 400px;
